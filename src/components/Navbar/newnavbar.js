@@ -13,7 +13,7 @@ import img1 from "../../Assets/banner.png"
 const Newnavbar = () => {
   return (
     <div className='outerdiv'>
-        <img src={img1}></img>
+        <img src={img1} className='image'></img>
         <div>
       <Navbar>
         <Container>
