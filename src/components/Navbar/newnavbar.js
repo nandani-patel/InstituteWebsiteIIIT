@@ -9,10 +9,11 @@ import { CgProfile } from 'react-icons/cg'
 import { AiOutlineSearch } from 'react-icons/ai'
 import Hero from '../HeroSection/hero'
 import "./newnavbar.css"
-
+import img1 from "../../Assets/banner.png"
 const Newnavbar = () => {
   return (
     <div className='outerdiv'>
+        <img src={img1}></img>
         <div>
       <Navbar>
         <Container>

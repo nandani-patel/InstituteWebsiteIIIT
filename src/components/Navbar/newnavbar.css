@@ -5,3 +5,8 @@
     padding-left: 10px;
     padding-right: 10px;
 }
+.bannerimage{
+    background-image: url("../../Assets/banner.png") ;
+    width: 100vw;
+    height: auto;
+}

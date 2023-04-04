@@ -10,6 +10,7 @@ import Cards from '../insights/cards'
 import "./home.css"
 import NavbarHeader from '../Navbar/navbar';
 import Boardofgoverners from '../administration/Boardofgoverners'
+import Newnavbar from '../Navbar/newnavbar'
 const LandingPage = () => {
 
   const navigate = useNavigate()
@@ -18,7 +19,7 @@ const LandingPage = () => {
       <div className='bg-img'>
         <div className='outside'>
         <div className='container'>
-        <NavbarHeader/>
+        <Newnavbar/>
         </div>
         </div>
       </div>
