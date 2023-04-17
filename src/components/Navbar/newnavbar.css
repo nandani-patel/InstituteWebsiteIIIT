@@ -13,3 +13,25 @@
 .image {
     width: 100%;
 }
+.nav-link { 
+    color : white;
+}   
+.navbar .navbar-brand, .navbar .navbar-nav .nav-link{
+    color: white ;
+    
+  }
+
+#offcanvasNavbarDropdown-expand-lg-hehe {
+    color: black;
+}
+.staticbutton {
+    color:white;
+}
+.staticbutton:active {
+    color:white;
+}
+.nav-link.active {
+    color:white !important;
+}
+    
+  
