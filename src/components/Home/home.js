@@ -61,13 +61,6 @@ const LandingPage = () => {
           style={{
             padding:"0% 10% 10%"
         }}>
-          <center
-            style={{
-              fontSize: "2rem",
-              marginTop:"2rem",
-              marginBottom: "2rem",
-              color:"#013571"
-          }}><b>Achievements</b></center>
           <AchievementCaraousel />
         </div>
         <div classname="features" style={{ textAlign: "center", color: "#001A38", letterSpacing: "3px" }}>

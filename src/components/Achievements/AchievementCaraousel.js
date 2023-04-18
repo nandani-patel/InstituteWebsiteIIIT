@@ -20,7 +20,8 @@ const AchievementCaraousel = () => {
                 body2={
                     " Ph.D. student Mr. Ravi Yadav working under the guidance of Dr. Ravi Panwar awarded with Swachhta Saarthi Fellowship under the Waste to Wealth Mission of the Government of India, 2021."}
                 body3={
-                    " Ph.D. student Mr. Ravi Yadav working under the guidance of Dr. Ravi Panwar awarded with Swachhta Saarthi Fellowship under the Waste to Wealth Mission of the Government of India, 2021."}/>
+                    " Ph.D. student Mr. Ravi Yadav working under the guidance of Dr. Ravi Panwar awarded with Swachhta Saarthi Fellowship under the Waste to Wealth Mission of the Government of India, 2021."}
+                    title = {"Acheivements"}/>
             </Carousel.Item>
             <Carousel.Item>
                 <AchievementSection body1={
@@ -28,7 +29,8 @@ const AchievementCaraousel = () => {
                 body2={
                     " Ph.D. student Mr. Ravi Yadav working under the guidance of Dr. Ravi Panwar awarded with Swachhta Saarthi Fellowship under the Waste to Wealth Mission of the Government of India, 2021."}
                 body3={
-                    " Ph.D. student Mr. Ravi Yadav working under the guidance of Dr. Ravi Panwar awarded with Swachhta Saarthi Fellowship under the Waste to Wealth Mission of the Government of India, 2021."}/>
+                    " Ph.D. student Mr. Ravi Yadav working under the guidance of Dr. Ravi Panwar awarded with Swachhta Saarthi Fellowship under the Waste to Wealth Mission of the Government of India, 2021."}
+                    title = {"News and Events"}/>
             </Carousel.Item>
             <Carousel.Item>
                 <AchievementSection body1={
@@ -36,7 +38,8 @@ const AchievementCaraousel = () => {
                 body2={
                     " Ph.D. student Mr. Ravi Yadav working under the guidance of Dr. Ravi Panwar awarded with Swachhta Saarthi Fellowship under the Waste to Wealth Mission of the Government of India, 2021."}
                 body3={
-                    " Ph.D. student Mr. Ravi Yadav working under the guidance of Dr. Ravi Panwar awarded with Swachhta Saarthi Fellowship under the Waste to Wealth Mission of the Government of India, 2021."}/>
+                    " Ph.D. student Mr. Ravi Yadav working under the guidance of Dr. Ravi Panwar awarded with Swachhta Saarthi Fellowship under the Waste to Wealth Mission of the Government of India, 2021."}
+                    title = {"Notices"}/>
             </Carousel.Item>
             </Carousel>
             </>
