@@ -1,0 +1,33 @@
+.bg{
+    color:white;
+    background-color:#013571;
+    width: 100vw;
+    height: 45vh;
+}
+.font{
+    font-size:2rem;
+    font-weight: 600;
+    
+}
+img{
+    height: 25vh;
+    width: 30vw;
+}
+.img_section{
+    display: flex;
+    margin-top: 2rem;
+    width: 70vw;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+.image{
+    height: 25vh;
+    width: 30vw;
+    /* border: 2px solid red; */
+}
+.cc{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
