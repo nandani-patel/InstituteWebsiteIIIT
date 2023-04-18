@@ -32,13 +32,13 @@ const Newnavbar = () => {
               </Offcanvas.Header>
               <Offcanvas.Body>
                 <Nav className="justify-content-center flex-grow-1 pe-3">
-                  <Nav.Link href="#action1" className='staticbutton'>Home</Nav.Link>
+                  <Nav.Link href="home" className='staticbutton'>Home</Nav.Link>
                   {/* first dropdown */}
                   <NavDropdown
-                    title="Administration"
-                    id={`offcanvasNavbarDropdown-expand-lg` }     
+                    title="Administration"  
+                    id={`offcanvasNavbarDropdown-expand-lg` }       
                   >
-                    <NavDropdown.Item href="#action3">Board Of Governers</NavDropdown.Item>
+                    <NavDropdown.Item href="boardofgoverners">Board Of Governers</NavDropdown.Item>
                     <NavDropdown.Divider />
                     <NavDropdown.Item href="#action4">
                       Finance Committee
@@ -69,25 +69,25 @@ const Newnavbar = () => {
                     title="Departments"
                     id={`offcanvasNavbarDropdown-expand-lg`}
                   >
-                    <NavDropdown.Item href="#action3">Computer Science & Engineering (CSE)</NavDropdown.Item>
+                    <NavDropdown.Item href="http://cse.iiitdmj.ac.in/">Computer Science & Engineering (CSE)</NavDropdown.Item>
                     <NavDropdown.Divider />
-                    <NavDropdown.Item href="#action4">
+                    <NavDropdown.Item href="https://www.iiitdmj.ac.in/ece.iiitdmj.ac.in/">
                       Electronics & Communication Engineering (ECE)
                     </NavDropdown.Item>
                     <NavDropdown.Divider />
-                    <NavDropdown.Item href="#action5">
+                    <NavDropdown.Item href="https://www.iiitdmj.ac.in/design.iiitdmj.ac.in/">
                       Design (Des)
                     </NavDropdown.Item>
                     <NavDropdown.Divider />
-                    <NavDropdown.Item href="#action6">
+                    <NavDropdown.Item href="https://www.iiitdmj.ac.in/me.iiitdmj.ac.in/">
                       Mechanical Engineering (ME)
                     </NavDropdown.Item>
                     <NavDropdown.Divider />
-                    <NavDropdown.Item href="#action7">
+                    <NavDropdown.Item href="https://www.iiitdmj.ac.in/ns.iiitdmj.ac.in/">
                       Natural Sciences (NS)
                     </NavDropdown.Item>
                     <NavDropdown.Divider />
-                    <NavDropdown.Item href="#action8">
+                    <NavDropdown.Item href="https://www.iiitdmj.ac.in/la.iiitdmj.ac.in/">
                       Liberal Arts (LA)
                     </NavDropdown.Item>
                   </NavDropdown>
@@ -258,7 +258,7 @@ const Newnavbar = () => {
                     title="People"
                     id={`offcanvasNavbarDropdown-expand-lg`}
                   >
-                    <NavDropdown.Item href="#action3">Faculty</NavDropdown.Item>
+                    <NavDropdown.Item href="http://faculty.iiitdmj.ac.in/">Faculty</NavDropdown.Item>
                     <NavDropdown.Divider />
                     <NavDropdown.Item href="#actin4">
                     Research staff

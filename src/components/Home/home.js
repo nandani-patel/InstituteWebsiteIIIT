@@ -68,7 +68,7 @@ const LandingPage = () => {
           <h4 style={{ letterSpacing: "0px" }}> Take a deep insight </h4>
           <Cards />
           <Gallery />
-          <Boardofgoverners />
+          {/* <Boardofgoverners /> */}
         </div>
       </div>
       <Foot />

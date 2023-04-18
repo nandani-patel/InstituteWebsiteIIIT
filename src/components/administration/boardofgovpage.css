@@ -1,0 +1,19 @@
+.mainnav {
+    background-image:
+    linear-gradient(to top, rgba(0, 35, 75, 0.3), rgb(0, 35, 75,1));
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}  
+.boardofgov {
+    padding: 2rem;
+}
+.tablebody > h2 {
+    font-size: 2rem;
+    color: rgb(1, 53, 113);
+    text-align: center;
+    padding-top: 2rem;
+}
+.lowerbody {
+    background-color: #F6F6F6;
+}
